@@ -1,0 +1,6 @@
+tables:
+  - customer
+  - address
+  - shipment
+  - sku
+  - complaints
