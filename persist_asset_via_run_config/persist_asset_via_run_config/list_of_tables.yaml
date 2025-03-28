@@ -1,6 +1,7 @@
 tables:
-  - customer
-  - address
-  - shipment
-  - sku
-  - complaints
+- customer
+- address
+- shipment
+- sku
+- complaints
+- new_table
